@@ -1,9 +1,2 @@
-git clone
-git add .
-git commit -m
-git push
-git branch --list
-git branch -d
-git branch status
-git branch checkout
-git push --set-upstream origin
+$git add up_to_date
+$git pull
